@@ -1,0 +1,28 @@
+{
+  "name": "erp",
+  "version": "0.1.0",
+  "scripts": {
+    "gulp": "gulp",
+    "build": "npm run gulp"
+  },
+  "devDependencies": {
+    "amd-optimize": "*",
+    "fs": "*",
+    "gulp": "*",
+    "gulp-base64": "*",
+    "gulp-cache": "*",
+    "gulp-clean": "*",
+    "gulp-concat": "*",
+    "gulp-imagemin": "*",
+    "gulp-jshint": "*",
+    "gulp-less": "*",
+    "gulp-minify-css": "*",
+    "gulp-plumber": "^1.0.1",
+    "gulp-requirejs": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-tmod": "^0.1.2",
+    "gulp-uglify": "*",
+    "gulp.spritesmith": "*",
+    "lodash._basecopy": "^3.0.1"
+  }
+}
